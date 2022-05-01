@@ -38,5 +38,5 @@ $ pip install xgboost
 Make sure that the **.csv** file is in the same folder as the **Kepler_model.ipynd**.
 ***
 
-If your running this in **google collab** you dont need to install any prerequiste library, but make sure to upload the **.csv** file in the collab before running the cells.
+If your running this in **google collab** you don't need to install any prerequiste library, but make sure to upload the **.csv** file in the collab before running the cells.
 *****
